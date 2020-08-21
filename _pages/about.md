@@ -3,7 +3,7 @@ layout: page
 title: Chi sono
 permalink: /about/
 ---
-![Chi sono](/assets/unnamed.jpg)
+![Chi sono](/images/unnamed.jpg)
 
 
 Sono nato nel 1976 lo stesso giorno in cui è nato Diego Armando Maradona ma sono un gobbo, per lo meno lo ero da ragazzo.
