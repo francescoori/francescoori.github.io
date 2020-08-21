@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: Chi sono
 permalink: /about/
 ---
+![Chi sono](/assets/unnamed.jpg)
+
 
 Sono nato nel 1976 lo stesso giorno in cui è nato Diego Armando Maradona ma sono un gobbo, per lo meno lo ero da ragazzo.
 Sono sposato con Valentina che fa un mestiere che non ho mai capito.
