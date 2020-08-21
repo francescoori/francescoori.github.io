@@ -16,7 +16,7 @@ Sono cresciuto a pane e internet e mi ha sempre appassionato seguire lo sviluppo
 Nelle mie esperienze di studio c'è il ricordo di una bellissima esperienza alle scuole medie di Castelnuovo Rangone di cui ricordo le attività alternative che il tempo pieno ci aveva concesso: ricordo che abbiamo allestito il vivaio in cui piantammo gli alberi del futuro parco Rio dei Gamberi.  Sono passato attraverso il Liceo Tassoni e lì è cresciuta la mia passione per la politica e per la filosofia poi.
 Da piccolo volevo fare lo scienziato. Volevo fare Ingegneria Nucleare e mi ero innamorato dei Ragazzi di Via Palisperna ma i tempi non erano quelli giusti.
 Poi arrivò la passione per la Filosofia e mi sono iscritto all'università di Bologna.
-La laurea sta arrivando solo ora.  Mi sono laureato con una tesi su Animalità e cultura in Merleau-Ponty, von Uexküll e nella ricerca
+%%La laurea sta arrivando solo ora.%%  Mi sono laureato con una tesi su Animalità e cultura in Merleau-Ponty, von Uexküll e nella ricerca
 etologica contemporanea.
 Interrogarsi su come sia fatto il mondo, su come sia nato, farlo con il pensiero e con l'ausilio della scienza e delle scoperte scientifiche, mi ha sempre affascinato e incuriosito.
 Ho un cane, si chiama Dora, e ho qualche decina di migliaia di api.
